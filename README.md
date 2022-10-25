@@ -1,3 +1,4 @@
+### Objectif de l'exercice : 
 Cet exercice consiste à mettre en œuvre l'utilisation d'une API.
 
 On a énuméré quelques cas d'utilisation des APIs par des applications dans la vie réelle.
@@ -13,3 +14,6 @@ On a choisi ces APIs car elles ne nécessitent aucune authentification contraire
 En savoir plus sur l'API OpenLayers ==> https://openlayers.org/
 
 En savoir plus sur l'API GEO.API.GOUV ==> https://geo.api.gouv.fr/
+
+### Spring initalizr :
+SpringBoot Dev Tools / Spring Web / Rest Repositories HAL Explorer / Rest repositories/ Thymeleaf 
