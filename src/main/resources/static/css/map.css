@@ -1,0 +1,9 @@
+body {
+    font-family: "Calibri", monospace;
+    font-size: 20px;
+}
+
+.map {
+    height: 500px;
+    width: 100%;
+}
