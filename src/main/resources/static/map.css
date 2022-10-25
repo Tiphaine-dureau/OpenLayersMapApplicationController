@@ -1,0 +1,30 @@
+body {
+    font-family: "Calibri", monospace;
+    font-size: 20px;
+}
+
+.navbar {
+    height: 80px;
+    color: white;
+    background-color: steelblue;
+}
+
+.navbar-brand {
+    font-weight: 600;
+    font-size: 30px!important;
+
+}
+
+.container {
+    margin: 5% auto 20%;
+}
+
+.map {
+    height: 100%;
+    width: 100%;
+}
+
+.btn, .form-control {
+    font-size: 20px;
+    font-weight: 500;
+}
